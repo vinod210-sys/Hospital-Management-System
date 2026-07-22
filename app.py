@@ -6,7 +6,7 @@ try:
     conn = mysql.connector.connect(
         host='localhost',
         user='root',
-        password='Gayathri@12345',
+        password='Vinuvinod@123',
         database='flask'
     )
     cursor = conn.cursor()
